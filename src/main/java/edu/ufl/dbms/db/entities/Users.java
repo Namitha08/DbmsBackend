@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
  */
 
 @Entity
-public class User {
+public class Users {
 
     @Id
     @GeneratedValue(strategy=GenerationType.AUTO)
